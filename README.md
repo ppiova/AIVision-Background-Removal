@@ -1,5 +1,7 @@
 # Background Removal with Azure AI Vision and Gradio
 
+![Example image](https://github.com/ppiova/AIVision-ImageRetrieval/blob/main/images/Gradio-RemovalBackground.gif "GradioDemmo")
+
 This project uses Azure AI Vision to remove the background from images and visualize the results using a Gradio web interface. The user can upload an image to the Gradio web interface, and the backend service will remove the background from the image and return both the processed image and its corresponding mask.
 
 ## Requirements
