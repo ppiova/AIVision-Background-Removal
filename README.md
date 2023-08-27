@@ -65,9 +65,14 @@ You can use the sample images (`piova-01.jpg`, `piova-02.jpg`, etc.) provided in
 
 ## Additional Resources
 
-For more code examples and use-cases, feel free to check out this repository by Serge Retkowsky on removing background using Azure Computer Vision:
+For more code examples and use-cases, you can check out the following repositories:
 
-[Removing Background Using Azure Computer Vision by Serge Retkowsky](https://github.com/retkowsky/Removing-background-using-Azure-Computer-Vision-4)
+1. **Removing Background Using Azure Computer Vision by Serge Retkowsky**  
+   This repository can serve as an additional resource for enhancing and expanding your projects in Python.  
+   [View Repository](https://github.com/retkowsky/Removing-background-using-Azure-Computer-Vision-4)
 
-This repository can serve as an additional resource for enhancing and expanding your own projects.
+2. **Azure ComputerVision BackgroundRemoval in .NET by Ppiova**  
+   This repository provides a .NET implementation for removing background using Azure Computer Vision. Feel free to utilize it in your .NET projects.  
+   [View Repository](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval)
+
 
